@@ -6,4 +6,6 @@ int main()
     {
         cout << i + 1 << endl;
     }
+    cout << "done with for loops";
+    cout << "new line added";
 }
